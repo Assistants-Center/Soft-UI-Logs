@@ -1,0 +1,23 @@
+{
+  "name": "dbd-soft-ui-logs",
+  "version": "1.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJKnaeckebrot/dbd-soft-ui-logs"
+  },
+  "keywords": [],
+  "author": "DJKnaeckebrot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DJKnaeckebrot/dbd-soft-ui-logs/issues"
+  },
+  "homepage": "https://github.com/DJKnaeckebrot/dbd-soft-ui-logs#readme",
+  "devDependencies": {
+    "discord.js": "14.7.1"
+  }
+}
